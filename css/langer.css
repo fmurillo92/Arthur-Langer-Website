@@ -1,0 +1,144 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+@media screen and (min-width:768px) {
+    .navbar-default .navbar-nav li a {
+        color: #FFF;
+    }
+}
+
+.footer{
+	font-family: Verdana;
+	color:#3b6d9f;
+}
+
+.bodyTitle{
+	font-family: Verdana;
+	color:#3b6d9f;
+}
+
+.bodyMiniTitle{
+	font-family: Verdana;
+	color:#3b6d9f;
+	font-size: 1em;
+	font-style: italic;
+}
+
+p, ul, li{
+	font-family: Verdana;
+	color:#707070;
+	padding-left:10; 
+	padding-right:10;
+}
+
+.smallText{
+	font-family: Verdana;
+	color:#707070;
+}
+
+.tinyText{
+	font-family: Verdana;
+	color:#707070;
+	font-size: 9px;
+}
+
+.bodyLink:link{
+	font-family: Verdana;
+	color:#990000;
+}
+.pageTitle {
+	color: #265482;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.box.home .col-lg-6 {
+    background: #F8FCFF;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.col-lg-12#author .col-lg-6 {
+    border: none;
+}
+
+.box .col-lg-6 hr, .box .col-lg-12 hr{
+    border-top: 1px dashed #90A5C2;
+}
+
+.col-lg-12 {
+	padding-bottom: 2%;
+}
+
+.box.aboutArt .col-lg-3 {
+	    text-align: center;
+	}
+
+@media (min-width: 1200px){
+	.box.home .col-lg-6 {
+	    width: 48%;
+	    border: 1px solid #90A5C2;
+	    margin: 1%;
+	    margin-top: 3%;
+	}
+
+	.col-lg-8.publications .col-lg-4#left{
+		border-right: 1px solid #90A5C2;
+	}
+
+	.col-lg-8.publications .col-lg-4#right{
+		border-left: 1px solid #90A5C2;
+	}
+
+	footer .col-lg-2 {
+	width: 20%;
+	}
+}
+
+@media (max-width: 767px){
+	.col-lg-12#author img {
+		padding-bottom: 2%;
+	}
+}
+
+@media (max-width: 1199px){
+	div#extras .col-lg-4{
+		text-align: center;
+	}
+
+	.col-lg-12#author .col-lg-4 img {
+    max-width: 30%;
+    height: auto;
+    margin: 1% auto;
+	}
+}
+
+.box.author p{
+    padding-left: 1%;
+}
+
+/*
+.col-lg-12#extras{
+	background: #F8FCFF;
+}*/
+
+div#extras{
+	margin-top: 3%;
+}
+
+.col-lg-8.publications .col-lg-4{
+	text-align:center;
+}
+
+.col-lg-8.publications img{
+	margin: 0px auto 3% auto;
+}
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, 
+.col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, 
+.col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, 
+.col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, 
+.col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, 
+.col-xs-7, .col-xs-8, .col-xs-9 {
+	position: inherit;
+}
