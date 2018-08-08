@@ -1,0 +1,115 @@
+<html>
+<head>
+<title>Arthur M. Langer - Professor, Author &amp; Speaker</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<style type="text/css">
+<!--
+@import url("css/langer.css");
+body {
+	background-image: url(images/background.jpg);
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.style1 {color: #3c6ea0}
+
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" onLoad="MM_preloadImages('images/menuBtns_over_03.jpg')">
+<!-- ImageReady Slices (art_langer_comp1_sliced.psd) -->
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><a href="index.html"><img src="images/top.png" width="951" height="241" border="0"></a></td>
+  </tr>
+  <tr>
+    <td><table width="901" height="25" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+			<img src="images/menuBtns_up_01.jpg" width="39" height="25" alt=""></td>
+		<td><img src="images/menuBtns_over_02.jpg" width="169" height="25"></td>
+		<td><a href="research-publications-articles.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image11','','images/menuBtns_over_03.jpg',1)"><img src="images/menuBtns_up_03.jpg" name="Image11" width="266" height="25" border="0"></a></td>
+		<td><a href="speaking.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image57','','images/menuBtns_over_04.jpg',1)"><img src="images/menuBtns_up_04.jpg" name="Image57" width="88" height="25" border="0"></a></td>
+		<td><a href="workforce-development-mentoring.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image58','','images/menuBtns_over_05.jpg',1)"><img src="images/menuBtns_up_05.jpg" name="Image58" width="292" height="25" border="0"></a></td>
+		<td>
+			<img src="images/menuBtns_up_06.jpg" width="47" height="25" alt=""></td>
+	</tr>
+</table></td>
+  </tr>
+  <tr><td>
+  <table width="901" border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+    <tr><td><div align="center">
+    <table border="0" cellpadding="10" cellspacing="0"><tr>
+      <td colspan="2"><span class="pageTitle">Columbia Faculties</span><br />
+          <img src="images/dottedLine.jpg" width="878" height="12">
+        <blockquote>
+            <p class="footer">Dr. Arthur M. Langer is on the faculties of the Department of Organization and Leadership at the Graduate School of Education (Teachers College) and Associate Director of Instruction and Curricular Development for Programs in Information Technology in the School of Continuing Education at Columbia University.  His most recent appointment is to the Columbia Business School beginning July 2011.</p>
+            <p class="footer style1">&nbsp;</p>
+          </blockquote></td>
+    </tr>
+    <tr><td width="176" align="left" valign="top"><div align="center"><img src="images/columbia-faculty_07.jpg" width="170" height="119" alt=""></div></td>
+      <td width="683" valign="top" class="bodyCopy"><p><span class="footer"><strong>School of Continuing Education</strong></span><br>
+          <span class="footer"><em>Executive Master of Science in Technology Management<br>
+          </em></span><span class="bodyCopy">Arthur Langer is academic director and faculty for instruction and curricular development of IT Programs at Columbia's School of Continuing Education. Langer consults with corporations on information technology, staff development, and management transformation in the United States and Europe. He is the author of Applied E-Commerce (Wiley, 2002), Analysis and Design of Information Systems (Springer-Verlag, 2001), and The Art of Analysis (Springer-Verlag, 1997). His research involves the study of adult education, mentoring, intellectual development, and learning transformation theory; distance education; and the design of technology-based curricula. He holds a B.A. in computer science, an M.B.A. in accounting and finance, and an Ed.D. in higher education.</span></p>
+        </td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><div align="center"><img src="images/columbia-faculty_11.jpg" width="171" height="120" alt=""></div></td>
+      <td valign="top"><span class="footer"><strong>The Fu Foundation School of Engineering &amp; Applied Sciences (SEAS)</strong></span><br>
+        <span class="footer"><em>Center for Technology, Innovation and Community Engagement&nbsp;(CTICE)</em></span><br>
+        <span class="bodyCopy">The School has two programs designed to provide adults who have a high school education with the practical skills necessary to obtain a job in information technology. The two programs are BYTE and SLICE. BYTE, or Begin Your Technology Education, is a six-week program for qualified local community residents interested in expanding their computer literacy. Once an individual has completed the BYTE program, he or she is eligible for SLICE (Service Learning in a Community Environment), a 16-month series of courses that teach sophisticated interpersonal and computer skills necessary for a career in information technology. SLICE students learn how to design and maintain websites, interact with clients, work in teams, ask for and cultivate feedback, solve problems, and communicate effectively, all while working for real-world, not-for-profit clients. Through a strategic partnership with&nbsp;Workforce Opportunity Services&nbsp;(WOS), SLICE students begin working part time in the IT field after one semester in the program. Upon graduation, CTICE and WOS help the students find permanent IT jobs. Since its inception in 2004, more than 90% of SLICE graduates have found employment in the IT field.</span></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><div align="center"><img src="images/teacherscollege.jpg" alt="" width="171" height="126" border="0"></div></td>
+      <td valign="top"><p><span class="footer"><strong>Teachers College</strong></span><br>
+          <span class="footer"><em>Organization &amp; Leadership Department, Adult Learning and Leadership / Higher &amp; Post Secondary Education / AEGIS Program Faculty Member</em></span><br>
+          <span class="bodyCopy">Dr. Langer teaches and advises adult students in continuing education programs at TC at Columbia.  In addition to teaching, his work includes personal coaching, mentoring and advising adult students in pursuit of Ed.D degrees (AEGIS Track)</span></p>
+        <p><span class="footer"><em>Adult Education Guided Intensive Study (AEGIS)</em></span><br>
+          <span class="bodyCopy">AEGIS is a highly selective, fast-track cohort program leading to the Ed.D. in Adult Education Guided Intensive Study for mid-career professionals who work full time, and who choose to pursue a doctorate in a concentrated format. The program emphasizes leadership for adult education and organizational learning. Scholar practitioners are helped to examine and critique theory and professional experience. The program is designed for experienced, self-directed professionals capable of completing a rigorous program emphasizing guided independent study.</span></p></td>
+    </tr>
+    </table>
+    </div></td>
+    </tr>    
+    </table>  
+  </td>
+  </tr>
+  <tr>
+    <td><div align="center" class="footer"><br>
+        <a href="index.html" class="footer">Home</a>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Columbia University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="research-publications-articles.html" class="footer">Publications</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="speaking.html" class="footer">Speaking</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="workforce-development-mentoring.html" class="footer">Workforce Development</a></div></td>
+  </tr>
+  <tr>
+    <td><div align="center">
+      <p><br>
+        <span class="footer">Copyright &copy; 2010. All Rights Reserved.</span></p>
+      <p>&nbsp;</p>
+    </div></td>
+  </tr>
+</table>
+<!-- End ImageReady Slices -->
+</body>
+</html>
